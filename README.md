@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 <pre>
 I'm currently learning about deep learning, especially in computer vision and generative model.
 And I will also update some content about leetcode and papers, record my learning process and problem-solving ideas.
-So... If you are interested, welcome to check out my blog.
+So... If you are interested, welcome to check out my <a href = "https://stolasin.github.io/">blog</a>.
 </pre>
-here is the [link](https://stolasin.github.io/)
